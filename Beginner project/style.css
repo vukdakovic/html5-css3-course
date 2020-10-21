@@ -1,11 +1,60 @@
-h1 {
-  color: green;
-  font-size: 40px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1140px;
+  margin: 20px auto 0 auto;
+}
+
+.blog-post {
+  width: 75%;
+  float: left;
+  padding-right: 20px;
+}
+
+.other-posts {
+  width: 25%;
+  float: left;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.author-box {
+  border-top: 1px solid #333;
+  padding-top: 20px;
+}
+
+body {
   font-family: Ariel sans-serif;
+  font-size: 18px;
+}
+
+h1, h2 {
+  color: green;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
 }
 
 h2 {
-  color: green;
   font-size: 25px;
-  font-family: Ariel sans-serif;
+  margin-bottom: 10px;
+}
+
+.main_text {
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.author-text {
+  font-size: 22px;
 }
