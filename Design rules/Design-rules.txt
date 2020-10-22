@@ -1,0 +1,56 @@
+Flat design
+-New type of design popularized by Apple - everything is without a shadow, without gradient or complex design or images
+
+
+Typography
+-Body text should be between 15px and 25px
+-Heading of the page should be between 60px and 90px
+-Second heading should be about 30px to 40px
+-Line spacing should be between 120% and 150% of the font size
+-We should have between 45 and 90 characters per line of text
+-Use good fonts - sans-serif for instance is more natural, clean, simple, modern
+  -Other good ones are Open Sans, Lato, Raleway, Monsterrat, PT Sans
+-If you want a more traditional font, for long reading or storytelling - use Serif font
+  -Other similar ones are Cardo, Merriweather, PT Serif
+
+
+Colors
+-Use only one base color
+-Use flat colors (flat UI colors)
+  -Turquoise
+  -Green sea
+  -Emerald
+  -Nephritis
+  -Peter river
+  -Belize hole
+  -Amethyst
+  -Wisteria
+  -Sun flower
+  -Orange
+  -Carrot
+  -Pumpkin
+  -Alizarin
+  -Pomegranate
+  -Wet asphalt
+  -Midnight blue
+  -Clouds
+  -Silver
+  -Concrete
+  -Asbestos
+-Choose base color and chose a lighter and darker version of that color
+  -Use tool "0 to 255"
+-Light and dark gray should be used for text and background Colors
+-Use a different color to draw an attention to some thing - for instance you can have the main color green, but use orange to emphasize a button
+-If in doubt when and where to use a color, just use it for buttons, and anywhere else you want to draw attention to
+-Never use complete black
+-Color should be chosen by having the audience that would use the app in mind
+
+
+Images
+-We should learn to put text on images
+-We need to be careful to not put a bright text over a bright image
+  -Usually in those cases we would need to put a color over an image
+    -a transparent black color
+    -but also other Colors - so we can have a white and gray text colors
+    -Color gradients
+-Other ways we can use is to just put a text in a box over an image
